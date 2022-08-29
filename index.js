@@ -12,6 +12,8 @@ function hasTargetSum(array, target) {
   return false;
 }
 
+//console.log(hasTargetSum([3,8,12,4,11,7],10));
+
 /* 
   Write the Big O time complexity of your function here
   space:0(n)
@@ -19,7 +21,7 @@ function hasTargetSum(array, target) {
 
 /* 
   Add your pseudocode here
-  targetSum([3,8,12,4,11,7],10)
+  hasTargetSum([3,8,12,4,11,7],10)
   numberSeen = {1:true,2:true}
 */
 
